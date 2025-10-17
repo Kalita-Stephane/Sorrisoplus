@@ -55,11 +55,6 @@ Oferecer uma ferramenta tecnológica completa que facilite a gestão odontológi
 - Gestão de usuários  
 - Configurações gerais do sistema  
 
----
-
-## 🎨 Protótipo Interativo
-
-👉 [Acesse o protótipo no Figma](https://www.figma.com/design/MmrbZGbnYiu9rAEWxEfKET/Sorriso-?node-id=0-1&t=ybkYqHsm6fcvU7by-1)  
 
 ---
 
@@ -70,6 +65,10 @@ Oferecer uma ferramenta tecnológica completa que facilite a gestão odontológi
 
 
 ---
+
+## 🎨 Protótipo Interativo
+
+👉 [Acesse o protótipo no Figma](https://www.figma.com/design/MmrbZGbnYiu9rAEWxEfKET/Sorriso-?node-id=0-1&t=ybkYqHsm6fcvU7by-1)  
 
 ## 👥 Equipe  
 - **Desenvolvedor(a):** Kalita Stephane Alves de Almeida  
