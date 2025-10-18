@@ -58,24 +58,28 @@ Oferecer uma ferramenta tecnológica completa que facilite a gestão odontológi
 
 ---
 
-## 🧱 Tecnologias Utilizadas
-
-- **Front-end:** HTML5, CSS3, JavaScript, Bootstrap  
-- **Outros:** Git, GitHub, Figma (para prototipagem)
-
-
----
 
 ## 🎨 Protótipo Interativo
 
-👉 [Acesse o protótipo no Figma](https://www.figma.com/design/MmrbZGbnYiu9rAEWxEfKET/Sorriso-?node-id=0-1&t=ybkYqHsm6fcvU7by-1)  
+👉 [Acesse o protótipo no Figma](https://www.figma.com/design/MmrbZGbnYiu9rAEWxEfKET/Sorriso-?node-id=0-1&t=ybkYqHsm6fcvU7by-1) 
 
+---
+
+## 🧱 Tecnologias Utilizadas
+
+- **Front-end:**
+- **Outros:** Git, GitHub, Figma
+
+
+---
+ 
 ## 👥 Equipe  
 - **Desenvolvedor(a):** Kalita Stephane Alves de Almeida  
 - **Orientador(a):** *Vilson Soares de Siqueira*  
 - **Instituição:** *Instituto Federal de Educação, Ciencia e Tecnologia Goiano - Campus Ceres*
 
 ---
+
 
 ## 📄 Licença  
 Este projeto é de uso **acadêmico** e possui fins **educacionais**.  
